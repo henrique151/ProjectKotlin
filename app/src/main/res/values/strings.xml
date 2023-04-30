@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectCategorias</string>
+    <string name="text_videos">Vídeos</string>
+    <string name="text_musicas">Músicas</string>
+    <string name="text_noticias">Notícias</string>
+    <string name="text_investimentos">Investimentos</string>
+    <string name="text_categorias">Ninjas</string>
+</resources>
